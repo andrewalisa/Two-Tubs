@@ -1,7 +1,7 @@
 # Two Tubs - MIS 426
 
 This is an assignment for my MIS 426 course, a course taught at Oakland University.
-We covered how to user GameMaker Studio in this course.
+We covered how to use GameMaker Studio in this course.
 
 ## Installation
 
